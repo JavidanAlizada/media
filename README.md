@@ -1,4 +1,4 @@
-###Media
+### Media
 1. Get html of news from news-portal site
 2. Parse contents and links of news from html.
 3. Save data to json file
