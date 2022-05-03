@@ -1,0 +1,29 @@
+{
+  "time_period": {
+    "0": "5h",
+    "1": "5h",
+    "2": "5h",
+    "3": "5h",
+    "4": "1h",
+    "5": "5h",
+    "6": "5h"
+  },
+  "email": {
+    "0": "javidanalizada99@gmail.com",
+    "1": "subhan@gmail.com",
+    "2": "javidanalizada99@gmail.com",
+    "3": "javidanalizada99@gmail.com",
+    "4": "subhan@gmail.com",
+    "5": "javidanalizada99@gmail.com",
+    "6": "furkan@gmail.com"
+  },
+  "keyword": {
+    "0": "ölkə",
+    "1": "salam",
+    "2": "dünya",
+    "3": "siyasət",
+    "4": "virus",
+    "5": "futbol",
+    "6": "müharibə"
+  }
+}
